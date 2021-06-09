@@ -50,4 +50,5 @@
 [pull]
   rebase = false
 [user]
-	name = cd ~/code/$GITHUB_JOBONE/dotfiles && zsh git_setup.sh
+	name = job rivas
+	email = job.rivas@bigdats.com
